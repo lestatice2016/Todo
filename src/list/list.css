@@ -1,0 +1,9 @@
+.list{
+    height: 150px;
+    box-sizing: border-box;
+    overflow: scroll;
+    background-color: #eeeeee;
+    border: 1px solid #dddddd;
+    list-style: none;
+}
+

@@ -1,0 +1,9 @@
+.item{
+    width: 250px;
+}
+.item-cb{
+    margin-right: 10px;
+}
+.item-selected .item-text{
+   text-decoration: line-through;
+}
